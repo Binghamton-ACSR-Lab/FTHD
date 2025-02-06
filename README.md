@@ -17,7 +17,7 @@ NOTE = "to appear",
 YEAR = "2024"
 }
 ```
-An extended journal paper, including EKF-FTHD, has been submitted to **IEEE Transactions on Intelligent Transportation Systems** and is currently under review. The [arXiv preprint](https://arxiv.org/abs/2409.19647) of the journal paper can be cited as follows:
+An extended journal paper, including EKF-FTHD, is currently under review. The [arXiv preprint](https://arxiv.org/abs/2409.19647) of the journal paper can be cited as follows:
 ```
 @ARTICLE{FangFTHD2024,
 AUTHOR    =  "Shiming Fang and Kaiyan Yu",
