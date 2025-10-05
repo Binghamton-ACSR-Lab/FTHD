@@ -19,12 +19,14 @@ YEAR = "2024"
 ```
 An extended journal paper, including EKF-FTHD, is accepted at the International Journal of Intelligent Robotics and Applications, in print. The [arXiv preprint](https://arxiv.org/abs/2409.19647) of the journal paper can be cited as follows:
 ```
-@ARTICLE{FangFTHD2024,
-AUTHOR    =  "Shiming Fang and Kaiyan Yu",
-TITLE     = "{Fine-Tuning Hybrid Physics-Informed Neural Networks for Vehicle Dynamics Model Estimation}",
-JOURNAL   =  "arXiv preprint arXiv:2409.19647",
-YEAR      =  "2024"
-} 
+@article{fang2025fine,
+  title={Fine-tuning hybrid dynamics with physics-informed neural networks for vehicle dynamics estimation},
+  author={Fang, Shiming and Yu, Kaiyan},
+  journal={International Journal of Intelligent Robotics and Applications},
+  pages={1--17},
+  year={2025},
+  publisher={Springer}
+}
 ```
 
 ## Installation
