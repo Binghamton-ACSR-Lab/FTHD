@@ -9,23 +9,22 @@ Additionally, EKF-FTHD is designed to handle noisy real-world experimental data,
 The development of FTHD has been accepted for presentation at the **2024 Modeling, Estimation, and Control Conference (MECC)** and can be cited as follows:
 ```
 @INPROCEEDINGS{FangMECC2024,
-AUTHOR = "Shiming Fang and Kaiyan Yu",
 TITLE = "{Fine-tuning hybrid physics-informed neural networks for vehicle dynamics model estimation}",
+AUTHOR = "Shiming Fang and Kaiyan Yu",
 BOOKTITLE = "Proc. Modeling Estimation Control Conf.",
 ADDRESS = "Chicago, IL, USA",
-NOTE = "to appear",
+PAGES = "810--815",
 YEAR = "2024"
 }
 ```
 An extended journal paper, including EKF-FTHD, is published at the International Journal of Intelligent Robotics and Applications. The paper can be cited as follows:
 ```
-@article{fang2025fine,
-  title={Fine-tuning hybrid dynamics with physics-informed neural networks for vehicle dynamics estimation},
-  author={Fang, Shiming and Yu, Kaiyan},
-  journal={International Journal of Intelligent Robotics and Applications},
-  pages={1--17},
-  year={2025},
-  publisher={Springer}
+@ARTICLE{Fang2025IJIRA,
+  TITLE = "{Fine-tuning hybrid dynamics with physics-informed neural networks for vehicle dynamics estimation}",
+  AUTHOR = "Shiming Fang and Kaiyan Yu",
+  JOURNAL = "International Journal of Intelligent Robotics and Applications",
+  PAGES = "1--17",
+  YEAR = "2025"
 }
 ```
 
