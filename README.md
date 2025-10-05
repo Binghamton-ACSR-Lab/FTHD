@@ -22,7 +22,7 @@ An extended journal paper, including EKF-FTHD, is published at the International
 @ARTICLE{Fang2025IJIRA,
   TITLE = "{Fine-tuning hybrid dynamics with physics-informed neural networks for vehicle dynamics estimation}",
   AUTHOR = "Shiming Fang and Kaiyan Yu",
-  JOURNAL = "International Journal of Intelligent Robotics and Applications",
+  JOURNAL = "Int. J. Intell. Robot. Appl.",
   PAGES = "1--17",
   YEAR = "2025"
 }
