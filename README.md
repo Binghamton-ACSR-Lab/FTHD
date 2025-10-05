@@ -17,7 +17,7 @@ NOTE = "to appear",
 YEAR = "2024"
 }
 ```
-An extended journal paper, including EKF-FTHD, is accepted at the International Journal of Intelligent Robotics and Applications, in print. The [arXiv preprint](https://arxiv.org/abs/2409.19647) of the journal paper can be cited as follows:
+An extended journal paper, including EKF-FTHD, is accepted at the International Journal of Intelligent Robotics and Applications, in print. The paper can be cited as follows:
 ```
 @article{fang2025fine,
   title={Fine-tuning hybrid dynamics with physics-informed neural networks for vehicle dynamics estimation},
