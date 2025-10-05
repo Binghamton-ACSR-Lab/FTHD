@@ -19,7 +19,7 @@ YEAR = "2024"
 ```
 An extended journal paper, including EKF-FTHD, is published at the International Journal of Intelligent Robotics and Applications. The paper can be cited as follows:
 ```
-@ARTICLE{Fang2025IJIRA,
+@ARTICLE{FangIJIRA2025,
   TITLE = "{Fine-tuning hybrid dynamics with physics-informed neural networks for vehicle dynamics estimation}",
   AUTHOR = "Shiming Fang and Kaiyan Yu",
   JOURNAL = "Int. J. Intell. Robot. Appl.",
